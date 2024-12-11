@@ -1,0 +1,31 @@
+/* Cabeçalho */
+header {
+    background: #28eee4; /* Azul escuro */
+    color: white;
+  }
+  
+  footer {
+    background: #f4f4f4; /* Cinza claro */
+    color: #333;
+  }
+  
+  /* Cartões */
+  .card {
+    border-radius: 10px;
+    background-color: #eaf2f8; /* Azul claro */
+  }
+  
+  .card-title {
+    color: #484b4b; /* Azul escuro */
+      }
+  
+  .btn-primary {
+    background-color: #9aa0a5; /* Azul intenso */
+    border: none;
+  }
+  
+  .btn-primary:hover {
+    background-color: #4f5052; /* Azul mais escuro */
+  }
+  
+ 
